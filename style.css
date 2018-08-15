@@ -1,0 +1,25 @@
+#loading,
+#results {
+    display: none;
+}
+
+.remove-item,
+.remove-item:hover
+{
+   
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.calcList{
+    position: relative;
+}
+
+.list-item{
+    position: absolute;
+    left: 2rem
+}
+a{
+list-style: none;
+}
